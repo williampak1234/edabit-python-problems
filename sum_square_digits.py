@@ -1,6 +1,6 @@
 # Problem: Add the sum of the square of the digits of a number
 # Difficulty: Medium
-# Notes:
+# Notes: Had a lot of trouble with this one. Learned a lot about the rules for indexing with strings and integers
 
 def get_num():
     """Retrieves the number from the user"""
