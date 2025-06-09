@@ -3,6 +3,7 @@
 # Notes:
 
 def min_to_sec(minutes):
+    """returns the value of minutes into seconds"""
     return minutes * 60
 
 def main():
