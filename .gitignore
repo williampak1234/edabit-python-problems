@@ -1,0 +1,15 @@
+# Ignore PyCharm project settings
+.idea/
+*.iml
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS metadata
+.DS_Store
+
+# Virtual environments
+venv/
+env/
