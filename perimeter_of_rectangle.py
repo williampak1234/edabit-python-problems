@@ -1,6 +1,7 @@
 # Problem: Find the perimeter of a rectangle
 # Difficulty: Easy
-# Notes:
+# Notes: Utilized while loops to counteract invalid inputs, combined functions to make main function cleaner,
+#        learned how to return multiple values from a function
 
 def get_length_from_user():
     """Gets the length of rectangle from user"""
